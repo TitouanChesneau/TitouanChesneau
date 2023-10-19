@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TitouanChesneau
 - 👀 I’m interested in Sports, particularly musculation and badminton.
-- 🌱 I’m currently learning Java and SQL
-- 💞️ I’m looking to collaborate on everything
+- 🌱 I’m currently learning Django and advanced CPP
+- 💞️ I’m looking to collaborate on anything you want
 - 📫 How to reach me titouan.chesneau@outlook.fr
 
 <!---
