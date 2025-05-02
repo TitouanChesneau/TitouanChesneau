@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TitouanChesneau
 - 👀 I’m interested in Sports, particularly musculation and badminton.
-- 🌱 I’m currently learning Java and Typescript
+- 🌱 I’m currently working on my graduation project 👀👀👀
 - 💞️ I’m looking to collaborate on anything you want
 - 📫 How to reach me titouan.chesneau@outlook.fr
 
